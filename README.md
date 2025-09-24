@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Practical Lab 1: Streaming Data for Predictive Maintenance with Linear Regression-Based Alerts
 
 ## 🧠 Context
@@ -92,3 +93,7 @@ This plot compares actual vs predicted readings for Axis1. A red vertical line m
 
 ##  🤝 Contributing 
 This lab was completed individually by Vishnu Sivaraj for CSNC8010. For questions or feedback, feel free to reach out directly.
+=======
+# Streaming-Data-for-Predictive-Maintenance-with-Linear-Regression
+A regression-based anomaly detection system for predictive maintenance. Streams industrial current data from a Neon PostgreSQL database, applies linear regression per axis, and flags deviations as alerts or errors. Includes real-time visualization and event logging to simulate early fault detection in manufacturing robots.
+>>>>>>> 6f64868cf1b290715b47de3dc457ffcd57f672f9
